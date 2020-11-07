@@ -3,7 +3,7 @@
 
 Un bot très simple pour Instagram. Possibilité de gagner des followers en Aiment/S'abonnant à des publications trouvées grace aux Hashtag. Il peut aussi Aimer / Commenter une photo trouvée grace aux hashtag. Le bot permet aussi de se désabonner des utilisateurs que nous avons suivis.
 
-#Comment je fonctionne pour gagner des abonnés:
-  1/Je recherches les dernières publications qui contiennent le hashtag rentré lors de l'éxécution du BOT.
-  2/J'aime la publication, je m'abonne à l'utilisateur de cette publication
-  3/Je rentre le lien de la publication dans un fichier texte pour pouvoir me désabonner par la suite
+Comment je fonctionne pour gagner des abonnés:
+1/Je recherches les dernières publications qui contiennent le hashtag rentré lors de l'éxécution du BOT.
+2/J'aime la publication, je m'abonne à l'utilisateur de cette publication
+3/Je rentre le lien de la publication dans un fichier texte pour pouvoir me désabonner par la suite
